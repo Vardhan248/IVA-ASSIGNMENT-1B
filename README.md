@@ -22,7 +22,7 @@ Converts the image to grayscale for faster processing.
 Draws bounding boxes around detected faces.
 
 
-- Steps to execute:
+Steps to execute:
 - load the Images - first, second, third, four, five
 - run the program
 - Check the output
